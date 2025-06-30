@@ -1,6 +1,6 @@
 # 🍎 FruitDetector_SS2023
 
-Sistema de visão computacional desenvolvido em **C# com Emgu.CV** (OpenCV para .NET), no âmbito da unidade curricular de **Sistemas Sensoriais** do 4º ano da licenciatura em Engenharia Eletrotécnica e de Computadores.
+Sistema de visão computacional desenvolvido em **C# com Emgu.CV** (OpenCV para .NET), no âmbito da unidade curricular de **Sistemas Sensoriais** do 4º ano do Mestrado Integrado em Engenharia Eletrotécnica e de Computadores.
 
 O sistema deteta e identifica frutas automaticamente a partir de imagens, analisando características morfológicas e de cor.
 
