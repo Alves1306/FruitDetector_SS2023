@@ -1,0 +1,29 @@
+﻿../../../imagens/;;;
+file;is_Fruit;Level;Ouput
+L1 - banana - (1).jpg;TRUE;1;(banana${X=51,Y=74,Width=504,Height=311}${(area=59347)&(diametro_minimo=110,4536)&(diametro_maximo=457,2266)&})|-1
+L1 - banana - (2).png;TRUE;1;(banana${X=108,Y=117,Width=329,Height=217}${(area=29597)&(diametro_minimo=82,73488)&(diametro_maximo=306,3286)&})|-1
+L1 - maca - (1).png;TRUE;1;(maca${X=114,Y=76,Width=220,Height=238}${(area=42328)&(diametro_minimo=219,431)&(diametro_maximo=241,6033)&})|-1
+L1 - maca - (2).png;TRUE;1;(maca${X=149,Y=135,Width=761,Height=744}${(area=454013)&(diametro_minimo=740,295)&(diametro_maximo=772,4449)&})|-1
+L1 - pera - (1).jpg;TRUE;1;(pera${X=96,Y=60,Width=272,Height=381}${(area=68502)&(diametro_minimo=254,239)&(diametro_maximo=388,2032)&})|-1
+L1 - pera - (2).jpg;TRUE;1;(pera${X=113,Y=48,Width=264,Height=382}${(area=61721)&(diametro_minimo=255,8599)&(diametro_maximo=381,6388)&})|-1
+L2 - fruta - (1).png;TRUE;2;(banana${X=1043,Y=391,Width=614,Height=564}${(area=105410)&(diametro_minimo=147,2726)&(diametro_maximo=622,9112)&})|(maca${X=330,Y=157,Width=522,Height=568}${(area=223656)&(diametro_minimo=519,0193)&(diametro_maximo=572,5049)&})|-1
+L2 - fruta - (2).png;TRUE;2;(maca${X=695,Y=656,Width=255,Height=337}${(area=54783)&(diametro_minimo=250,1585)&(diametro_maximo=351,5241)&})|(pera${X=354,Y=512,Width=216,Height=355}${(area=44971)&(diametro_minimo=204,0711)&(diametro_maximo=360,5466)&})|(banana${X=554,Y=256,Width=384,Height=354}${(area=41540)&(diametro_minimo=92,35806)&(diametro_maximo=391,7271)&})|(maca${X=113,Y=205,Width=327,Height=357}${(area=88226)&(diametro_minimo=324,8877)&(diametro_maximo=359,496)&})|(pera${X=737,Y=75,Width=248,Height=360}${(area=54495)&(diametro_minimo=239,7281)&(diametro_maximo=359,4026)&})|-1
+L2 - fruta - (3).png;TRUE;2;(banana${X=165,Y=580,Width=320,Height=245}${(area=24046)&(diametro_minimo=68,62219)&(diametro_maximo=311,7644)&})|(pera${X=87,Y=418,Width=178,Height=295}${(area=30771)&(diametro_minimo=168,2695)&(diametro_maximo=299,9107)&})|(banana${X=253,Y=203,Width=320,Height=295}${(area=28888)&(diametro_minimo=77,36942)&(diametro_maximo=327,2367)&})|(pera${X=407,Y=52,Width=206,Height=300}${(area=38005)&(diametro_minimo=200,3528)&(diametro_maximo=299,9617)&})|-1
+L3 - fruta - (1).png;TRUE;3;(banana${X=1043,Y=391,Width=614,Height=564}${(area=1,924556)&(diametro_minimo=0,6293703)&(diametro_maximo=2,662014)&})|(maca${X=330,Y=157,Width=522,Height=568}${(area=4,0841)&(diametro_minimo=2,218031)&(diametro_maximo=2,446602)&})|-1
+L3 - fruta - (2).png;TRUE;3;(maca${X=695,Y=656,Width=255,Height=337}${(area=2,534546)&(diametro_minimo=1,701759)&(diametro_maximo=2,391321)&})|(pera${X=354,Y=512,Width=216,Height=355}${(area=2,08043)&(diametro_minimo=1,388239)&(diametro_maximo=2,452698)&})|(banana${X=554,Y=256,Width=384,Height=354}${(area=1,921329)&(diametro_minimo=0,6282861)&(diametro_maximo=2,66481)&})|(maca${X=113,Y=205,Width=327,Height=357}${(area=4,082281)&(diametro_minimo=2,21012)&(diametro_maximo=2,444648)&})|(pera${X=738,Y=75,Width=247,Height=360}${(area=2,519922)&(diametro_minimo=1,630804)&(diametro_maximo=2,444916)&})|-1
+L3 - fruta - (3).png;TRUE;3;(banana${X=165,Y=580,Width=320,Height=245}${(area=4,512291)&(diametro_minimo=0,94003)&(diametro_maximo=4,270746)&})|(pera${X=87,Y=418,Width=178,Height=295}${(area=5,774254)&(diametro_minimo=2,305061)&(diametro_maximo=4,108366)&})|(banana${X=253,Y=203,Width=320,Height=295}${(area=5,420905)&(diametro_minimo=1,059855)&(diametro_maximo=4,482695)&})|(pera${X=407,Y=52,Width=206,Height=300}${(area=7,131732)&(diametro_minimo=2,744559)&(diametro_maximo=4,109065)&})|-1
+L4 - fruta (1).png;TRUE;4;(limao${X=134,Y=349,Width=265,Height=196}${(area=5,176747)&(diametro_minimo=2,288288)&(diametro_maximo=3,115764)&})|(pera${X=637,Y=291,Width=142,Height=207}${(area=2,498685)&(diametro_minimo=1,615242)&(diametro_maximo=2,442558)&})|(morango${X=455,Y=284,Width=104,Height=149}${(area=1,44872)&(diametro_minimo=1,152281)&(diametro_maximo=1,753099)&})|(maca_red${X=512,Y=110,Width=148,Height=149}${(area=2,472249)&(diametro_minimo=1,692197)&(diametro_maximo=1,826373)&})|(maca_red${X=251,Y=76,Width=142,Height=182}${(area=2,427266)&(diametro_minimo=1,625618)&(diametro_maximo=2,138814)&})|85
+L4 - fruta (2).png;TRUE;4;(figo${X=148,Y=342,Width=173,Height=211}${(area=1,71358)&(diametro_minimo=1,410693)&(diametro_maximo=1,778384)&})|(figo${X=120,Y=54,Width=194,Height=212}${(area=2,108114)&(diametro_minimo=1,521964)&(diametro_maximo=1,867913)&})|(figo${X=377,Y=53,Width=179,Height=224}${(area=2,004519)&(diametro_minimo=1,405549)&(diametro_maximo=1,981682)&})|119
+L4 - fruta (3).png;TRUE;4;(limao${X=336,Y=709,Width=415,Height=259}${(area=4,420826)&(diametro_minimo=1,937617)&(diametro_maximo=3,11432)&})|(figo${X=538,Y=380,Width=164,Height=209}${(area=1,326587)&(diametro_minimo=1,141497)&(diametro_maximo=1,608145)&})|(maca_red${X=153,Y=374,Width=249,Height=299}${(area=2,986545)&(diametro_minimo=1,855574)&(diametro_maximo=2,279827)&})|(morango${X=491,Y=68,Width=167,Height=230}${(area=1,454746)&(diametro_minimo=1,188826)&(diametro_maximo=1,727363)&})|(morango${X=108,Y=68,Width=205,Height=212}${(area=1,63124)&(diametro_minimo=1,298473)&(diametro_maximo=1,618276)&})|133
+Flying_lowres.jpg;FALSE;;
+Flying_lowres_crop.jpg;FALSE;;
+Fyling_lowres_noise.png;FALSE;;
+mapa-high_res.png;FALSE;;
+matricula.jpg;FALSE;;
+Gaivota.jpg;FALSE;;
+Gaivota_ruido.jpg;FALSE;;
+loira.bmp;FALSE;;
+loira_noise_mais_fraco.bmp;FALSE;;
+loiranoise2.bmp;FALSE;;
+sesimbra_escuro.bmp;FALSE;;
+sesimbra_EQ.bmp;FALSE;;
