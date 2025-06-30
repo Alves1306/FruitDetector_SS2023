@@ -51,13 +51,19 @@ A interface gráfica foi desenvolvida com **Windows Forms**, permitindo:
 FruitDetector_SS2023/
 │
 ├── SS_OpenCV_2023.sln # Solução Visual Studio
+
 ├── SS_OpenCV/ # Projeto principal
 │ ├── MainForm.cs # Interface gráfica e eventos
 │ ├── ImageClass.cs # Lógica de processamento (FruitReader, métricas, etc.)
+
 ├── FruitDLL/ # (Opcional) Biblioteca auxiliar
+
 ├── pack_imagens/ # Imagens de teste
+
 ├── SS_operations.csv # Exportação de dados (opcional)
+
 ├── vcredist_x86_2012.exe # Redistributable necessário para EmguCV
+
 └── README.md # Este ficheiro
 
 
