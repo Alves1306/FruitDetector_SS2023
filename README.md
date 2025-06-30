@@ -56,11 +56,11 @@ FruitDetector_SS2023/
 │ ├── MainForm.cs # Interface gráfica e eventos
 │ ├── ImageClass.cs # Lógica de processamento (FruitReader, métricas, etc.)
 
-├── FruitDLL/ # (Opcional) Biblioteca auxiliar
+├── FruitDLL/ # Biblioteca auxiliar
 
 ├── pack_imagens/ # Imagens de teste
 
-├── SS_operations.csv # Exportação de dados (opcional)
+├── SS_operations.csv # Exportação de dados
 
 ├── vcredist_x86_2012.exe # Redistributable necessário para EmguCV
 
@@ -72,7 +72,7 @@ FruitDetector_SS2023/
 1. Clonar este repositório:
    ```bash
    git clone https://github.com/Alves1306/FruitDetector_SS2023.git
-Abreir o projeto:
+Abrir o projeto:
 
 Abre o SS_OpenCV_2023.sln no Visual Studio.
 
