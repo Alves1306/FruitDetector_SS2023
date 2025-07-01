@@ -31,7 +31,7 @@ Develop an application capable of:
 - Fruit identification based on weighted comparison with reference values
 - Drawing bounding boxes and rectangles over detected fruits
 
-## 🖥Interface
+## Interface
 
 The graphical interface was developed using **Windows Forms**, allowing:
 
