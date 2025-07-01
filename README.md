@@ -85,8 +85,8 @@ FruitDetector_SS2023/
 
 Project developed by:
 
-- António Alves — nº 58339  
-- Márcio Costa — nº 60446  
+- António Alves - nº 58339  
+- Márcio Costa - nº 60446  
 
 ## License
 
