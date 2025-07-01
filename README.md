@@ -4,7 +4,7 @@ Computer vision system developed in **C# with Emgu.CV** (OpenCV for .NET), as pa
 
 The system automatically detects and identifies fruits in images by analyzing shape and color features.
 
-## 🎯 Objective
+## Objective
 
 Develop an application capable of:
 
@@ -14,7 +14,7 @@ Develop an application capable of:
 - Comparing these metrics with a reference database  
 - Automatically identifying each fruit based on quantitative criteria  
 
-## 🧠 Main Features
+## Main Features
 
 - Automatic binarization using **Otsu**
 - Morphological filters (erosion, dilation)
@@ -31,7 +31,7 @@ Develop an application capable of:
 - Fruit identification based on weighted comparison with reference values
 - Drawing bounding boxes and rectangles over detected fruits
 
-## 🖥️ Interface
+## 🖥Interface
 
 The graphical interface was developed using **Windows Forms**, allowing:
 
@@ -40,7 +40,7 @@ The graphical interface was developed using **Windows Forms**, allowing:
 - Real-time display of measurement results  
 - Interaction through dropdown menus  
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 FruitDetector_SS2023/
@@ -55,7 +55,7 @@ FruitDetector_SS2023/
 └── README.md                # This file
 ```
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Clone this repository:
    ```bash
@@ -74,21 +74,21 @@ FruitDetector_SS2023/
 
 6. Use the **“Fruit Reader”** menu to start the detection and classification process.
 
-## 📊 Sample Output
+## Sample Output
 
 - Fruits outlined with rectangles  
 - Fruit name and measurements displayed in the console  
 - Metrics calculated in real-world units (cm)  
 - Identification based on internal reference table (`Fruit_table`)  
 
-## 👥 Authors
+## Authors
 
 Project developed by:
 
 - António Alves — nº 58339  
 - Márcio Costa — nº 60446  
 
-## 📚 License
+## License
 
 This project was developed for academic purposes and is not publicly licensed.  
 Restricted to educational use only.
